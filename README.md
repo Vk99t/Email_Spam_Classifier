@@ -1,0 +1,1 @@
+The "Email_Spam_Classifier" project is an application designed to identify and categorize emails as either spam or non-spam (ham). Leveraging machine learning techniques, specifically the Multinomial Naive Bayes algorithm, the system is trained on a dataset of labeled emails to learn patterns and characteristics associated with spam and legitimate messages.
